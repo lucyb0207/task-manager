@@ -1,4 +1,4 @@
-# CLI Task Manager 
+# Python CLI Task Manager 
 
 A simple command-line task manager built in Python that allows users to manage tasks efficiently with persistent storage using a JSON file.
 
